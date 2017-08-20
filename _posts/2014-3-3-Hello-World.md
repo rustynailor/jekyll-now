@@ -1,10 +1,16 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome to New Blog
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Working on customising Wordpress themes (quite a few years ago now) has given me a lifelong desire to never use Wordpress again. So, this is my new Android based blog using Jekyll and Barry Clark's super easy [Jekyll Now repository](https://github.com/barryclark/jekyll-now), which enables you to set up and host a blog in about 15 seconds without becoming a SQL injection attack magnet.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+This is where I will post stuff about my personal projects and related odds and ends. I've been working in web and app development for over ten years now, and have been working as an Android developer for just over three years.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I completed an Android nanodegree at Udacity last year, and made an obscure word learning app as my Capstone project (the words are obscure, rather then the app).  I haven't done anything with it since, so my plan is firstly to get it out in the play store, and then to use it as a testbed for trying out new stuff which I may not have a chance to play with in my day job.
+
+This year's Google I/O had a ton of exciting things to dig into - I'm particularly keen to try Android Things, TensorFlow Mobile, Instant Apps and the new Android Lifecycle components. And I really want to get to grips with Kotlin, which I've only heard good things about.  
+
+I'm going to try something different each week and blog about it, as experience tells me that without a self imposed deadline, I may not get round to it.
+
+My first goal is to get V1 of the app into the Play store - I'm going to start this experiment in earnest in September 2017 (after a late Summer holiday), so I'll post again when V1 is up and available. 
