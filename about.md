@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Russell is an Android Developer based in Cardiff.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Russell is a [Google Certified Android Associate Developer](http://bcert.me/spwneygc) based in Cardiff. His day job is as CTO of Rantmedia, an app development agency.
+
+He likes lots of things including running, pizza, novels and short stories by depressed alcholics (especially Patrick Hamilton).
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+http://bcert.me/spwneygc
+
+[russell@scapegrace.co.uk](mailto:russell@scapegrace.co.uk)
