@@ -10,7 +10,7 @@ Russell is an Android Developer based in Cardiff.
 
 Russell is a [Google Certified Android Associate Developer](http://bcert.me/spwneygc) based in Cardiff. His day job is as CTO of Rantmedia, an app development agency.
 
-He likes lots of things including running, pizza, novels and short stories by depressed alcoholics (especially Patrick Hamilton).
+He likes lots of things including running, pizza and novels by depressed alcoholics (especially Patrick Hamilton).
 
 ### Contact me
 
