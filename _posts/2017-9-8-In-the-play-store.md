@@ -43,16 +43,16 @@ The intended user of the app is an English speaking  reader who is keen to expan
 ### Features
 
 The main features of the app are:
-  *Contains a SQLite dictionary of words with related definitions
-  *Presents these words to the user with the correct definition in flashcard format in learn mode
-  *Has a timed multiple choice quiz in Quiz mode
-  *Saves user progress on the quiz and modifies questions accordingly
-  *Displays ads on the home screen using Google Admob
-  *Has google analytics embedded in the app 
-  *Allows the user to share their progress with a sharing intent
-  *The app supports Android 4.2 and higher
-  *A word of the day widget which shows a random word and definition
-  *An option to download the latest word list from a web service in the settings, via an Intent Service
+  * Contains a SQLite dictionary of words with related definitions
+  * Presents these words to the user with the correct definition in flashcard format in learn mode
+  * Has a timed multiple choice quiz in Quiz mode
+  * Saves user progress on the quiz and modifies questions accordingly
+  * Displays ads on the home screen using Google Admob
+  * Has google analytics embedded in the app 
+  * Allows the user to share their progress with a sharing intent
+  * The app supports Android 4.2 and higher
+  * A word of the day widget which shows a random word and definition
+  * An option to download the latest word list from a web service in the settings, via an Intent Service
 
 
 
