@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wide Words: In the play store
+title: Wide Words&#58; In the play store
 ---
 
 So, Wide Words is up and in the Google Play Store - it's available as an alpha build here:
