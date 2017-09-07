@@ -5,13 +5,13 @@ title: Wide Words&#58; In the play store
 
 So, Wide Words is up and in the Google Play Store - it's available as an alpha build here:
 
-(https://play.google.com/apps/testing/uk.co.rustynailor.widewords) [https://play.google.com/apps/testing/uk.co.rustynailor.widewords]
+[https://play.google.com/apps/testing/uk.co.rustynailor.widewords](https://play.google.com/apps/testing/uk.co.rustynailor.widewords)
 
-You can see the source at the point of release (here) [https://github.com/rustynailor/wide-words/releases/tag/v0.2].
+You can see the source at the point of release [here](https://github.com/rustynailor/wide-words/releases/tag/v0.2).
 
 I originally made the app as the Capstone project for my Udacity Android Nanodegree - even thought it was only finished about 9 months ago, there have been loads of new developments in Android that I would like to incorporate.
 
-One thing that is a little clunky in the app right now is the handling of screen rotation in the quiz activity - the new (Architecture Components) [https://developer.android.com/topic/libraries/architecture/index.html] - notably the lifecycle aware components - look great for simplifying this. So I'm going to take a look at that next week.
+One thing that is a little clunky in the app right now is the handling of screen rotation in the quiz activity - the new [Architecture Components](https://developer.android.com/topic/libraries/architecture/index.html) - notably the lifecycle aware components - look great for simplifying this. So I'm going to take a look at that next week.
 
 This is the original spec of the project - it is competing in a very small field of Will Self based Android Apps :-)
 
