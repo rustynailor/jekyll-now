@@ -20,8 +20,11 @@ public class WideWordsApplication extends Application {
 
 Then simply reference it in your Manifest in the root Application node:
 
-`<application
+
+~~~~
+<application
         android:name=".WideWordsApplication"
-        ...`
+        ...
+~~~~
         
 That's it - you should now start to see data appearing in your Firebase analytics console.  I think this originally came from a Stack Overflow post, but I couldn't find it to reference - thanks in any case, whoever you are :-)
