@@ -3,11 +3,11 @@ layout: post
 title: Wide Words&#58; In the play store
 ---
 
-So, Wide Words is up and in the Google Play Store - it's available as an alpha build here:
+So, Wide Words is up and in the Google Play Store - it's available here:
 
-[https://play.google.com/apps/testing/uk.co.rustynailor.widewords](https://play.google.com/apps/testing/uk.co.rustynailor.widewords)
+[https://play.google.com/store/apps/details?id=uk.co.rustynailor.widewords](https://play.google.com/store/apps/details?id=uk.co.rustynailor.widewords)
 
-You can see the source at the point of release [here](https://github.com/rustynailor/wide-words/releases/tag/v0.2).
+You can see the source at the initial point of release [here](https://github.com/rustynailor/wide-words/releases/tag/v0.2).
 
 I originally made the app as the Capstone project for my Udacity Android Nanodegree - even thought it was only finished about 9 months ago, there have been loads of new developments in Android that I would like to incorporate.
 
